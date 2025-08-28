@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>API - Botão</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <a href="">Home</a>
+      <a href="">Sobre</a>
+      <a href="">Produtos</a>
+      <a href="">Contatos</a>
+    </nav>
+  </header>
+  <br>
+  <center>
+    <h1>Restaurante - Funcionários</h1>
+    <p id="aguardo">Digite o CPF</p>
+    <div id="imagem"></div>
+    <div id="nome"></div>
+    <div id="sobrenome"></div>
+    <div id="cpf"></div>
+    <div id="cidade"></div>
+    <div id="cargo"></div>
+    <div id="salario"></div>
+    <div id="link"></div>
+    <br>
+
+    <input type="number" id="valorDigitado"><br><br>
+    <div id="erro"></div>
+    <button onclick="buscar()">Buscar</button>
+
+    <br /><br />
+    <script src="script.js"></script>
+  </center>
+</body>
+
+</html>

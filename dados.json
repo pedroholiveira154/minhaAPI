@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1 ,
+        "cpf": 12345678901,
+        "nome": "Pedro",
+        "sobrenome": "Henrique",
+        "cidade": "Mogi das Cruzes",
+        "cargo": "Cozinheiro",
+        "salario": "R$4000,00",
+        "link": "https://raw.github.com/pedroholiveira154/minhaAPI/main/img/pedro.png",
+        "imagem": "<img src='' width='300px'>"
+    },
+    {
+        "id": 2 ,
+        "cpf": 23456789012,
+        "nome": "Renato",
+        "sobrenome": "Falcão",
+        "cidade": "Mogi das Cruzes",
+        "cargo": "Cozinheiro",
+        "salario": "R$4000,00",
+        "link": "https://raw.github.com/pedroholiveira154/minhaAPI/main/img/renato.png",
+        "imagem": "<img src='' width='300px'>"
+    },
+    {
+        "id": 3 ,
+        "cpf": 34567890123,
+        "nome": "Marcos",
+        "sobrenome": "Vinícius",
+        "cidade": "Mogi das Cruzes",
+        "cargo": "Cozinheiro Assistente",
+        "salario": "R$3000,00",
+        "link": "https://www.youtube.com",
+        "imagem": "<img src='https://raw.github.com/pedroholiveira154/minhaAPI/main/img/bruno.png' width='300px'>"
+    },
+    {
+        "id": 4 ,
+        "cpf": 45678901234,
+        "nome": "Maria",
+        "sobrenome": "Luiza",
+        "cidade": "Mogi das Cruzes",
+        "cargo": "Cozinheiro Chefe",
+        "salario": "R$7000,00",
+        "link": "https://github.com/malululuiulul",
+        "imagem": "<img src='https://raw.github.com/pedroholiveira154/minhaAPI/main/img/malu.png' width='300px'>"
+    },
+    {
+        "id": 5 ,
+        "cpf": 56789012345,
+        "nome": "Lucas",
+        "sobrenome": "Santos",
+        "cidade": "Mogi das Cruzes",
+        "cargo": "Garçom",
+        "salario": "R$3000,00",
+        "link": "https://raw.github.com/pedroholiveira154/minhaAPI/main/img/lucas.png",
+        "imagem": "<img src='' width='300px'>"
+    },
+    {
+        "id": 6 ,
+        "cpf": 67890123456,
+        "nome": "Gustavo",
+        "sobrenome": "Donadei",
+        "cidade": "Mogi das Cruzes",
+        "cargo": "Garçom",
+        "salario": "R$3000,00",
+        "link": "https://github.com/Donadei1203",
+        "imagem": "<img src='https://raw.github.com/pedroholiveira154/minhaAPI/main/img/donadei.png' width='300px'>"
+    },
+    {
+        "id": 7 ,
+        "cpf": 78901234567,
+        "nome": "Samuel",
+        "sobrenome": "Henry",
+        "cidade": "Mogi das Cruzes",
+        "cargo": "Garçom",
+        "salario": "R$3000,00",
+        "link": "https://raw.github.com/pedroholiveira154/minhaAPI/main/img/samuel.png",
+        "imagem": "<img src='' width='300px'>"
+    },
+    {
+        "id": 8 ,
+        "cpf": 89012345678,
+        "nome": "Talissa",
+        "sobrenome": "Nagata",
+        "cidade": "Mogi das Cruzes",
+        "cargo": "Atendente",
+        "salario": "R$3000,00",
+        "link": "https://www.youtube.com",
+        "imagem": "<img src='' width='300px'>"
+    },
+    {
+        "id": 9 ,
+        "cpf": 90123456789,
+        "nome": "Miguel",
+        "sobrenome": "Viana",
+        "cidade": "Mogi das Cruzes",
+        "cargo": "Atendente",
+        "salario": "R$3000,00",
+        "link": "https://www.youtube.com",
+        "imagem": "<img src='' width='300px'>"
+    },
+    {
+        "id": 10 ,
+        "cpf": 11234567890,
+        "nome": "Guilherme",
+        "sobrenome": "Rabelo",
+        "cidade": "Mogi das Cruzes",
+        "cargo": "Limpeza",
+        "salario": "R$4000,00",
+        "link": "https://github.com/Rabelo76",
+        "imagem": "<img src='' width='300px'>"
+    }
+]
+
