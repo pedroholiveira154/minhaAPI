@@ -7,8 +7,8 @@
         "cidade": "Mogi das Cruzes",
         "cargo": "Cozinheiro",
         "salario": "R$4000,00",
-        "link": "https://raw.github.com/pedroholiveira154/minhaAPI/main/img/pedro.png",
-        "imagem": "<img src='' width='300px'>"
+        "link": "https://github.com/pedroholiveira154",
+        "imagem": "<img src='https://raw.github.com/pedroholiveira154/minhaAPI/main/img/pedro.png' width='300px'>"
     },
     {
         "id": 2 ,
@@ -18,8 +18,8 @@
         "cidade": "Mogi das Cruzes",
         "cargo": "Cozinheiro",
         "salario": "R$4000,00",
-        "link": "https://raw.github.com/pedroholiveira154/minhaAPI/main/img/renato.png",
-        "imagem": "<img src='' width='300px'>"
+        "link": "https://github.com/RenatoFalcao1208",
+        "imagem": "<img src='https://raw.github.com/pedroholiveira154/minhaAPI/main/img/renato.png' width='300px'>"
     },
     {
         "id": 3 ,
@@ -51,8 +51,8 @@
         "cidade": "Mogi das Cruzes",
         "cargo": "Garçom",
         "salario": "R$3000,00",
-        "link": "https://raw.github.com/pedroholiveira154/minhaAPI/main/img/lucas.png",
-        "imagem": "<img src='' width='300px'>"
+        "link": "https://github.com/lucasdosssantos",
+        "imagem": "<img src='https://raw.github.com/pedroholiveira154/minhaAPI/main/img/lucas.png' width='300px'>"
     },
     {
         "id": 6 ,
@@ -73,8 +73,8 @@
         "cidade": "Mogi das Cruzes",
         "cargo": "Garçom",
         "salario": "R$3000,00",
-        "link": "https://raw.github.com/pedroholiveira154/minhaAPI/main/img/samuel.png",
-        "imagem": "<img src='' width='300px'>"
+        "link": "https://github.com/Samueltamawoki",
+        "imagem": "<img src='https://raw.github.com/pedroholiveira154/minhaAPI/main/img/samuel.png' width='300px'>"
     },
     {
         "id": 8 ,
@@ -84,8 +84,8 @@
         "cidade": "Mogi das Cruzes",
         "cargo": "Atendente",
         "salario": "R$3000,00",
-        "link": "https://raw.github.com/pedroholiveira154/minhaAPI/main/img/bruno.png",
-        "imagem": "<img src='' width='300px'>"
+        "link": "https://www.youtube.com",
+        "imagem": "<img src='https://raw.github.com/pedroholiveira154/minhaAPI/main/img/bruno.png' width='300px'>"
     },
     {
         "id": 9 ,
@@ -95,8 +95,8 @@
         "cidade": "Mogi das Cruzes",
         "cargo": "Atendente",
         "salario": "R$3000,00",
-        "link": "https://raw.github.com/pedroholiveira154/minhaAPI/main/img/bruno.png",
-        "imagem": "<img src='' width='300px'>"
+        "link": "https://www.youtube.com",
+        "imagem": "<img src='https://raw.github.com/pedroholiveira154/minhaAPI/main/img/bruno.png' width='300px'>"
     },
     {
         "id": 10 ,
@@ -106,9 +106,10 @@
         "cidade": "Mogi das Cruzes",
         "cargo": "Limpeza",
         "salario": "R$4000,00",
-        "link": "https://raw.github.com/pedroholiveira154/minhaAPI/main/img/rabelo.png",
-        "imagem": "<img src='' width='300px'>"
+        "link": "https://github.com/Rabelo76",
+        "imagem": "<img src='https://raw.github.com/pedroholiveira154/minhaAPI/main/img/rabelo.png' width='300px'>"
     }
 ]
+
 
 
