@@ -84,7 +84,7 @@
         "cidade": "Mogi das Cruzes",
         "cargo": "Atendente",
         "salario": "R$3000,00",
-        "link": "https://www.youtube.com",
+        "link": "https://raw.github.com/pedroholiveira154/minhaAPI/main/img/bruno.png",
         "imagem": "<img src='' width='300px'>"
     },
     {
@@ -95,7 +95,7 @@
         "cidade": "Mogi das Cruzes",
         "cargo": "Atendente",
         "salario": "R$3000,00",
-        "link": "https://www.youtube.com",
+        "link": "https://raw.github.com/pedroholiveira154/minhaAPI/main/img/bruno.png",
         "imagem": "<img src='' width='300px'>"
     },
     {
@@ -106,8 +106,9 @@
         "cidade": "Mogi das Cruzes",
         "cargo": "Limpeza",
         "salario": "R$4000,00",
-        "link": "https://github.com/Rabelo76",
+        "link": "https://raw.github.com/pedroholiveira154/minhaAPI/main/img/rabelo.png",
         "imagem": "<img src='' width='300px'>"
     }
 ]
+
 
